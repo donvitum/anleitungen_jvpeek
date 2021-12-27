@@ -1,13 +1,13 @@
 # Soundboard
 
-Hi! So wie es scheint willst Du das Soundboard von JvPeek "" verwenden. 
+Hi! So wie es scheint willst Du das Soundboard von JvPeek "https://www.twitch.tv/JvPeek" verwenden. <br/>
 Hier eine kurze Anleitung wie es eingebunden werden kann. - Denn Streamen mit Soundboard macht eindeutig mehr Spaß. :D
 
 
 ## Kurzanleitung
 
-Für alle die keine Anleitung mehr brauchen wie man Browsersourcen einbindet alles in superschnell. 
-URL Soundboard: https://jvpeek.de/ext/sb/?channel=CHANNELNAME
+Für alle die keine Anleitung mehr brauchen wie man Browsersourcen einbindet alles in superschnell. <br/>
+URL Soundboard: https://jvpeek.de/ext/sb/?channel=CHANNELNAME<br/>
 URL Soundlist: https://jvpeek.de/ext/sb/sounds/soundlist.php?channel=CHANNELNAME
 
 
@@ -44,5 +44,5 @@ Und welche Sounds gibt es? Das kannst Du unter https://jvpeek.de/ext/sb/sounds/s
 
 ## Nachwort - Welcome Sounds
 
-Du hörst seltsame Sounds aber keiner hat etwas abgespielt? Herzlichen Glückwunsch - Du hast die Welcome Sounds gefunden. Diese geten Global und können nicht deaktiviert werden. Das was JvPeek einpflegt das kommt halt. :)
+Du hörst seltsame Sounds aber keiner hat etwas abgespielt? Herzlichen Glückwunsch - Du hast die Welcome Sounds gefunden. Diese geten Global und können nicht deaktiviert werden. Das was JvPeek einpflegt das kommt halt. :)<br/>
 Diese Art der Sounds werden aber nur bei speziellen Chatter abgespielt. Aber dazu findest Du mehr auf dem Discord von JvPeek. 
