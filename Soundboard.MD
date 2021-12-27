@@ -26,8 +26,7 @@ Gib als Namen z.B. Soundboard ein und stelle sicher das die Quelle sichtbar ist.
 ![Schritt 2](https://github.com/donvitum/anleitungen_jvpeek/blob/main/screenshots/SB_002.png)
 
 Gebe als URL https://jvpeek.de/ext/sb/?channel=CHANNELNAME ein. Sofern CHANNELNAME durch deinen eignen Namen ausgetauscht werden muss. 
-Ich gebe hier davon aus das die Quelle den ganzen Bildschirm verwenden sull und gebe meine Leinwandgröße ein. (1920x1080). 
-Willst Du das Animationen nur als kleines Bild eingeblendet haben gib z.B. 800x600 ein. 
+Das Soundboard ist auf eine Auflösung von 1920x1080 ausgelegt. 
 ![Schritt 3](https://github.com/donvitum/anleitungen_jvpeek/blob/main/screenshots/SB_003.png)
 
 Im Grunde war es das. Einfach, oder? 
