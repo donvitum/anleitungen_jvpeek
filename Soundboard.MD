@@ -8,7 +8,8 @@ Hier eine kurze Anleitung wie es eingebunden werden kann. - Denn Streamen mit So
 
 Für alle die keine Anleitung mehr brauchen wie man Browsersourcen einbindet alles in superschnell. <br/>
 URL Soundboard: https://jvpeek.de/ext/sb/?channel=CHANNELNAME<br/>
-URL Soundlist: https://jvpeek.de/ext/sb/sounds/soundlist.php?channel=CHANNELNAME
+URL Soundlist: https://jvpeek.de/ext/sb/sounds/soundlist.php?channel=CHANNELNAME<br/>
+Auflösung: 1920x1080
 
 
 ## Streamlabs
