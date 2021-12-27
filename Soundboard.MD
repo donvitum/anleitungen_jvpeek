@@ -43,5 +43,5 @@ Und welche Sounds gibt es? Das kannst Du unter https://jvpeek.de/ext/sb/sounds/s
 
 ## Nachwort - Welcome Sounds
 
-Du hörst seltsame Sounds aber keiner hat etwas abgespielt? Herzlichen Glückwunsch - Du hast die Welcome Sounds gefunden. Diese geten Global und können nicht deaktiviert werden. Das was JvPeek einpflegt das kommt halt. :)<br/>
-Diese Art der Sounds werden aber nur bei speziellen Chatter abgespielt. Aber dazu findest Du mehr auf dem Discord von JvPeek. 
+Du hörst seltsame Sounds aber keiner hat etwas abgespielt? Herzlichen Glückwunsch - Du hast die Welcome Sounds gefunden. Diese gelten Global und können nicht deaktiviert werden. Das was JvPeek einpflegt das kommt halt. :)<br/>
+Diese Art der Sounds werden aber nur bei speziellen Chat Benutzern abgespielt. Aber dazu findest Du mehr auf dem Discord von JvPeek. 
