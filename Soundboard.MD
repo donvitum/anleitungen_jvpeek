@@ -27,13 +27,12 @@ Gib als Namen z.B. Soundboard ein und stelle sicher das die Quelle sichtbar ist.
 Gebe als URL https://jvpeek.de/ext/sb/?channel=CHANNELNAME ein. Sofern CHANNELNAME durch deinen eignen Namen ausgetauscht werden muss. 
 Ich gebe hier davon aus das die Quelle den ganzen Bildschirm verwenden sull und gebe meine Leinwandgröße ein. (1920x1080). 
 Willst Du das Animationen nur als kleines Bild eingeblendet haben gib z.B. 800x600 ein. 
-Um die Lautstärke der Sounds im OBS Mixer zu bearbeiten muss noch der Haken bei "Audio über OBS steuern" ausgewählt sein. 
 ![Schritt 3](https://github.com/donvitum/anleitungen_jvpeek/blob/main/screenshots/SB_003.png)
 
 Im Grunde war es das. Einfach, oder? 
 Nun noch schnell testen. Gehe dazu im Browser auf https://twitch.tv/CHANNELNAME/chat - Channelname gegen deinen eignen tauschen. Aber ich denke das war dir schon klar. 
 
-Und wenn man nun z.B. !sun eingibt solltest Du in der Vorschau eine Animation sehen und im Mixer solltest Du bei "Browser" einen Ausschlag sehen. 
+Und wenn man nun z.B. !sun eingibt solltest Du in der Vorschau eine Animation sehen.
 ![Schritt 4](https://github.com/donvitum/anleitungen_jvpeek/blob/main/screenshots/SB_004.png)
 
 Einfach? - Einfach!
