@@ -38,7 +38,7 @@ Und wenn man nun z.B. !sun eingibt solltest Du in der Vorschau eine Animation se
 Einfach? - Einfach!
 
 Und welche Sounds gibt es? Das kannst Du unter https://jvpeek.de/ext/sb/sounds/soundlist.php?channel=CHANNELNAME - CHANNELNAME gegen... Naja Du weiß schon. Und schon siehst Du alle Sounds die für deinen Chat zur Verfügung stehen. 
-![Schritt 5](https://github.com/donvitum/anleitungen_jvpeek/blob/main/screenshots/SB_005.png?raw=true)
+![Schritt 5](https://github.com/donvitum/anleitungen_jvpeek/blob/main/screenshots/SB_005.png)
 
 
 ## Nachwort - Welcome Sounds
