@@ -49,6 +49,6 @@ Diese Art der Sounds werden aber nur bei speziellen Chat Benutzern abgespielt. A
 
 ## Sounds (de)aktivieren
 
-Mods können das Soundboard mit den folgenden Befehlen steuern
-!disablesounds = deaktivieren
+Mods können das Soundboard mit den folgenden Befehlen steuern <br/>
+!disablesounds = deaktivieren <br/>
 !enablesounds = aktivieren
